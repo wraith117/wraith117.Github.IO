@@ -1,10 +1,10 @@
 @font-face{
-    font-family: polentical;
-    src:url(../font/polentical_neon/polentical_neon_regular.ttf);  
+    font-family: 'polentical';
+    src:url(/font/polentical_neon/polentical_neon_regular.ttf);  
 }
 
 html{
-    font-family: polentical; 
+    font-family: 'polentical'; 
     font-size: 1em;
     color: white;
 }
@@ -86,7 +86,7 @@ a {
     color: #818181;
     display: block;
     transition: 0.3s;
-    font-family: Polentical;
+    font-family: 'polentical';
 }
 
 .Albums:hover{
