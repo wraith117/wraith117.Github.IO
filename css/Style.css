@@ -166,3 +166,7 @@ z-index: 2;
 #cartholder{
     padding-top: 50px;
 }
+
+.datagrid-view1{
+    display: none;
+}
